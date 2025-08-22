@@ -1,1 +1,1 @@
-# Solar-Tracking-System-Using-IoT
+This project implements a dual-axis solar tracking system to maximize solar energy capture by continuously aligning a solar panel with the sun’s position throughout the day. The system uses a Raspberry Pi Pico W, MicroPython, and SG90 servo motors, integrating real-time sun position data through APIs for precise tracking.
